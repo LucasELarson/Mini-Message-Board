@@ -1,0 +1,22 @@
+body{
+   display: flex;
+   flex-direction: column-reverse;
+   gap: 10px;
+}
+
+.messageBox{
+   width: 50vw;
+   background-color: rgb(101, 101, 101);
+}
+
+.sender{
+   font-size: larger;
+}
+
+.message{
+   font-size: medium;
+}
+
+.time{
+   font-size: .5rem;
+}
